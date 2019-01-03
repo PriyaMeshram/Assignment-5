@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39630" started-at="2018-11-29T05:26:26Z" finished-at="2018-11-29T05:27:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39630" started-at="2018-11-29T05:26:26Z" finished-at="2018-11-29T05:27:06Z">
+      <class name="com.cjc.NewTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:com.cjc.NewTest@646d64ab]" name="open_browser" is-config="true" duration-ms="6944" started-at="2018-11-29T05:26:19Z" finished-at="2018-11-29T05:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="enter_application_url()[pri:0, instance:com.cjc.NewTest@646d64ab]" name="enter_application_url" is-config="true" duration-ms="7264" started-at="2018-11-29T05:26:26Z" finished-at="2018-11-29T05:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_application_url -->
+        <test-method status="PASS" signature="maximize_page()[pri:0, instance:com.cjc.NewTest@646d64ab]" name="maximize_page" is-config="true" duration-ms="1145" started-at="2018-11-29T05:26:33Z" finished-at="2018-11-29T05:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize_page -->
+        <test-method status="PASS" signature="click_on_myaccount()[pri:1, instance:com.cjc.NewTest@646d64ab]" name="click_on_myaccount" duration-ms="3881" started-at="2018-11-29T05:26:34Z" finished-at="2018-11-29T05:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_myaccount -->
+        <test-method status="PASS" signature="click_on_createaccount()[pri:2, instance:com.cjc.NewTest@646d64ab]" name="click_on_createaccount" duration-ms="3111" started-at="2018-11-29T05:26:38Z" finished-at="2018-11-29T05:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_createaccount -->
+        <test-method status="PASS" signature="create_account()[pri:3, instance:com.cjc.NewTest@646d64ab]" name="create_account" duration-ms="2716" started-at="2018-11-29T05:26:41Z" finished-at="2018-11-29T05:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_account -->
+        <test-method status="PASS" signature="click_on_register()[pri:4, instance:com.cjc.NewTest@646d64ab]" name="click_on_register" duration-ms="4390" started-at="2018-11-29T05:26:44Z" finished-at="2018-11-29T05:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_register -->
+        <test-method status="PASS" signature="verify_resistration_done()[pri:5, instance:com.cjc.NewTest@646d64ab]" name="verify_resistration_done" duration-ms="2051" started-at="2018-11-29T05:26:48Z" finished-at="2018-11-29T05:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_resistration_done -->
+        <test-method status="PASS" signature="click_on_Tv()[pri:6, instance:com.cjc.NewTest@646d64ab]" name="click_on_Tv" duration-ms="3463" started-at="2018-11-29T05:26:50Z" finished-at="2018-11-29T05:26:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_Tv -->
+        <test-method status="PASS" signature="addtowish_TV()[pri:7, instance:com.cjc.NewTest@646d64ab]" name="addtowish_TV" duration-ms="4278" started-at="2018-11-29T05:26:54Z" finished-at="2018-11-29T05:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtowish_TV -->
+        <test-method status="PASS" signature="click_sharewishlist()[pri:8, instance:com.cjc.NewTest@646d64ab]" name="click_sharewishlist" duration-ms="3717" started-at="2018-11-29T05:26:58Z" finished-at="2018-11-29T05:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_sharewishlist -->
+        <test-method status="PASS" signature="senddata_on_wishlistpage()[pri:9, instance:com.cjc.NewTest@646d64ab]" name="senddata_on_wishlistpage" duration-ms="3463" started-at="2018-11-29T05:27:02Z" finished-at="2018-11-29T05:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senddata_on_wishlistpage -->
+        <test-method status="PASS" signature="validate_wishlist_succesfully()[pri:10, instance:com.cjc.NewTest@646d64ab]" name="validate_wishlist_succesfully" duration-ms="87" started-at="2018-11-29T05:27:05Z" finished-at="2018-11-29T05:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_wishlist_succesfully -->
+      </class> <!-- com.cjc.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
